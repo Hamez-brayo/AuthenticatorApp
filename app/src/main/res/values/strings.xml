@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">AuthenticatorApp</string>
+    <string name="authenticator_app_string">Authenticator App</string>
+    <string name="background_string">Background</string>
+    <string name="create_a_new_account_string">Create a new account</string>
+    <string name="full_name_string">Full Name</string>
+    <string name="email_string">Email</string>
+    <string name="password_string">Password</string>
+    <string name="confirm_password_string">Confirm Password</string>
+    <string name="already_have_an_account_string">Already have an account?</string>
+    <string name="register_string">REGISTER</string>
+    <string name="dont_have_an_account_string">Dont have an account?</string>
+    <string name="login_string">Login</string>
+    <string name="loginbutton_string">LOGIN</string>
 </resources>
