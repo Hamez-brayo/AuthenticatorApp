@@ -28,6 +28,12 @@ class RegisterActivity : AppCompatActivity() {
         findViewById<Button>(R.id.RegisterButton).setOnClickListener{
             RegisterUser()
         }
+
+        findViewById<TextView>(R.id.textView3).setOnClickListener{
+            intent= Intent(this@RegisterActivity,LoginActivity::class.java)
+            startActivity(intent)
+
+        }
     }
 
     private fun RegisterUser(){
